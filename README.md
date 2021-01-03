@@ -1,10 +1,12 @@
-### Hi there 👋 I'm Ben
+## Hi there 👋 I'm Ben
+
+#### I'm a Frontend / Fullstack Developer
 
 - 🌱 I’m currently working on MERN Stack applications
 - 🤔 I’m looking for help with getting a job
-- 💬 Ask me about anything
+- 💬 Ask me about <b>React.js</b>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/)
-- 🎞 Check out my [Youtube channel](https://www.youtube.com/channel/UCArIQIJ1qL5taSKhM--r8mg)
+- 🎦 Check out my [Youtube channel](https://www.youtube.com/channel/UCArIQIJ1qL5taSKhM--r8mg)
 
 ### Technologies I use:
 
