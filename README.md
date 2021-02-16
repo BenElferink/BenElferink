@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with getting a job
 - 💬 Ask me about <b>React.js</b>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/)
-- 🎦 Check out my [Youtube channel](https://www.youtube.com/channel/UCArIQIJ1qL5taSKhM--r8mg)
+- 🧠 Check out my [portoflio](https://reactivated.dev) (reactivated.dev)
 
 ### Technologies I use:
 
