@@ -4,8 +4,9 @@
 
 - 🌱 I’m currently working in the FinTech industry.
 - 💬 Ask me about <b>JavaScript</b>
+- 📦 Distributing packages at the moment
+- 🧠 New portfolio coming soon
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/), [Twitter](https://twitter.com/BenElferink)
-- 🧠 Check out my [portoflio](https://reactivated.dev) (reactivated.dev)
 
 ### Technologies I use:
 
