@@ -2,11 +2,10 @@
 
 #### I'm a Fullstack Developer
 
-- 🌱 I’m currently working in the FinTech industry.
 - 💬 Ask me about <b>JavaScript</b>
-- 📦 Distributing packages at the moment
-- 🧠 New portfolio coming soon
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/), [Twitter](https://twitter.com/BenElferink)
+- 🌱 I’m currently working in the FinTech & Blockchain industry
+- 🦊 Check out my baby [Bad Fox MC](https://badfoxmc.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9), [Twitter](https://twitter.com/BenElferink)
 
 ### Technologies I use:
 
