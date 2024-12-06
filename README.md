@@ -24,8 +24,8 @@
 
 ## Technologies Used:
 
-<a href='https://github.com' target='_blank' rel='noopener noreferrer'>
-  <img src='./icons/github.svg' alt='GitHub' height='69px' />
+<a href='https://git-scm.com' target='_blank' rel='noopener noreferrer'>
+  <img src='./icons/git.svg' alt='git' height='69px' />
 </a>
 <a href='https://figma.com' target='_blank' rel='noopener noreferrer'>
   <img src='./icons/figma.svg' alt='Figma' height='69px' />
