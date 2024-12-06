@@ -11,13 +11,12 @@
 - 🔭 I’m currently working on [Odigos](https://github.com/odigos-io/odigos)
 - 🦊 Check out my [Cardano Blockchain Tools](https://labs.badfoxmc.com)
 - ⚡ Fun fact: I have a cat 🐈
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&style=social&link=https%3A%2F%2Flinkedin.com%2Fin%2Fben-elferink-37ba251b9)
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&style=social&link=https://www.linkedin.com/in/ben-elferink-37ba251b9/)
 
 ## GitHub Stats
 
-![GitHub stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&show_icons=true&theme=dark#gh-dark-mode-only)
-
-![GitHub stats - Light Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&show_icons=true&theme=default#gh-light-mode-only)
+[![GitHub stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BenElferink/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats - Light Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BenElferink/github-readme-stats#gh-light-mode-only)
 
 ## Skills & Technologies:
 
