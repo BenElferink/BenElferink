@@ -30,6 +30,9 @@
 <a href='https://figma.com' target='_blank' rel='noopener noreferrer'>
   <img src='./icons/figma.svg' alt='Figma' height='69px' />
 </a>
+<a href='https://code.visualstudio.com' target='_blank' rel='noopener noreferrer'>
+  <img src='./icons/vscode.svg' alt='VS Code' height='69px' />
+</a>
 <a href='https://w3schools.com/html' target='_blank' rel='noopener noreferrer'>
   <img src='./icons/html.svg' alt='HTML' height='69px' />
 </a>
