@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Odigos](https://github.com/odigos-io/odigos)
 - 🦊 Check out my [Cardano Blockchain Tools](https://labs.badfoxmc.com)
 - ⚡ Fun fact: I have a cat 🐈
-- 📫 How to reach me: <object data="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&style=social&link=https://www.linkedin.com/in/ben-elferink-37ba251b9/">[LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/)</object>
+- 📫 How to reach me: <object data="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&style=social&link=https%3A%2F%2Flinkedin.com%2Fin%2Fben-elferink-37ba251b9">[LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/)</object>
 
 ## GitHub Stats
 
