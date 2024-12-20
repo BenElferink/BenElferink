@@ -13,8 +13,9 @@
 - ⚡ Fun fact: I have a cat 🐈
 - 📫 How to reach me: <object data="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&style=social&link=https%3A%2F%2Flinkedin.com%2Fin%2Fben-elferink-37ba251b9">[LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/)</object>
 
-[![GitHub stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BenElferink/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats - Light Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BenElferink/github-readme-stats#gh-light-mode-only)
+[![GitHub stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)
+
+[![GitHub stats - Light Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)
 
 ### Developer Tools
 
@@ -52,7 +53,6 @@
 ![Serverless](https://img.shields.io/badge/Serverless-111?logo=serverless)
 ![AWS](https://img.shields.io/badge/AWS-111?logo=amazonwebservices)
 ![Vercel](https://img.shields.io/badge/Vercel-111?logo=vercel)
-![IPFS](https://img.shields.io/badge/IPFS-111?logo=ipfs)
 
 ### Databases & Storage
 
@@ -60,6 +60,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-111?logo=firebase)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-111?logo=amazondynamodb)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-111?logo=amazons3)
+![IPFS](https://img.shields.io/badge/IPFS-111?logo=ipfs)
 
 ### Web Communications
 
