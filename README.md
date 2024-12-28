@@ -1,21 +1,15 @@
 # Hello 👋 I'm Ben Elferink
 
-<!--
-**BenElferink/BenElferink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### About Me
 
 - 🖥️ I'm a Fullstack Developer
 - 🌱 Ask me about <b>JavaScript / TypeScript</b>
 - 🔭 I’m currently working on [Odigos](https://github.com/odigos-io/odigos)
-- 🦊 Check out my [Cardano Blockchain Tools](https://labs.badfoxmc.com)
 - ⚡ Fun fact: I have a cat 🐈
 - 📫 How to reach me: <object data="https://img.shields.io/badge/LinkedIn-111?logo=linkedin&style=social&link=https%3A%2F%2Flinkedin.com%2Fin%2Fben-elferink-37ba251b9">[LinkedIn](https://www.linkedin.com/in/ben-elferink-37ba251b9/)</object>
 
-[![GitHub stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)
-
-[![GitHub stats - Light Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)
+[![GitHub stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=dark&rank_icon=github&show_icons=true&hide_title=true&number_format=long&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats - Light Mode](https://github-readme-stats.vercel.app/api?username=BenElferink&theme=light&rank_icon=github&show_icons=true&hide_title=true&number_format=long&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Developer Tools
 
